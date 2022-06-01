@@ -26,6 +26,16 @@
   margin-top: 15px;
 }
 
-.information button:hover {
+button:hover {
   cursor: pointer;
+}
+
+.employees-table {
+  border-collapse: collapse;
+}
+
+.employees-table,
+.employees-table th,
+.employees-table td {
+  border: 1px solid #222;
 }
